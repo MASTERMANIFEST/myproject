@@ -60,13 +60,7 @@ This is a web based application developed for entertainment/party related based 
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/113796579/203833449-83cfe30b-cc45-4ed9-bb6d-4d89abc041d7.png)
 
-### HELPBOT -
 
-![Screenshot (28)](https://user-images.githubusercontent.com/113796579/203833509-0487fd87-99b4-46bd-8ed4-9827f3f04fd0.png)
-
-![Screenshot (44)](https://user-images.githubusercontent.com/113796579/209475069-e4be2180-69d0-423d-a15d-eb371c89f2da.png)
-
-![Screenshot (45)](https://user-images.githubusercontent.com/113796579/209475394-0947d87d-1760-4d9b-aed5-42ab9257a582.png)
 
 
 ### GALLERY -
@@ -88,6 +82,15 @@ This is a web based application developed for entertainment/party related based 
 
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/113796579/203833656-89771882-1701-4b9b-96c0-aebbf0e59629.png)
+
+
+### HELPBOT -
+
+![Screenshot (28)](https://user-images.githubusercontent.com/113796579/203833509-0487fd87-99b4-46bd-8ed4-9827f3f04fd0.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/113796579/209475069-e4be2180-69d0-423d-a15d-eb371c89f2da.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/113796579/209475394-0947d87d-1760-4d9b-aed5-42ab9257a582.png)
 
 
 ## Tech Stack 💻
