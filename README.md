@@ -36,7 +36,8 @@ This is a web based application developed for entertainment/party related based 
 
 
 
-![Screenshot (40)](https://user-images.githubusercontent.com/113796579/209442935-80554d54-d7f5-47c9-a27b-3a75f7242b1d.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/113796579/209475948-6a30e7f0-8f75-4909-ba0f-d41d8c6236c6.png)
 
 
 ### ABOUT -
