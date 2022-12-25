@@ -5,7 +5,7 @@ This is a web based application developed for entertainment/party related based 
 ### This web based entertainment/party application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://happy-plant-0a7a92700.2.azurestaticapps.net
+**Project Link** - 
 
 
 
