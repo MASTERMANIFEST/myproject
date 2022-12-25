@@ -120,4 +120,4 @@ I used azure static web app to deploy my online website.
 
 
 
-These are the two main azure technologies that are used to build a website.
+These are the two main azure technologies that are used by me to build the website.
