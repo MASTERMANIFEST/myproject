@@ -9,7 +9,7 @@ This is a web based application developed for entertainment/party related based 
 
 
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/UgzVlvBff2A
 
 ## Azure technologies used for Project
 
