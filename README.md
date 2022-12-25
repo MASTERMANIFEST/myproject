@@ -5,7 +5,7 @@ This is a web based application developed for entertainment/party related based 
 ### This web based entertainment/party application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - 
+**Project Link** - https://jolly-sky-0f246ee00.2.azurestaticapps.net/
 
 
 
